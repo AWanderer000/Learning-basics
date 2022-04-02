@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Zarmeena-Learning and I made this account to document my learning as a beginner :) 
-- 👀 I’m interested in learning about Data Science and hope to be a Data scientist in the future!
-- 🌱 I’m currently learning Python but before this i learnt HTML, CSS and a bit of JavaScript and realised that web development is not for me. 
+- 👀 I’m interested in learning about Data Science and hope to be a Data analyst in the future!
+- 🌱 I’m currently learning Python. 
 - 📫 How to reach me on,
-Twitter: @Zarmeena_Codes
+Twitter: 
 
 <!---
 Zarmeena-Learning/Zarmeena-Learning is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
